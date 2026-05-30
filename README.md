@@ -9,7 +9,7 @@ Inconsistence data
 Duplicates
 
 Work done:
-Initially, i cleaned and trimmed the date by using formulae =trim(clean(data) and cleaned the data from unnecessry spaces, non printable characters.
+Initially, I cleaned and trimmed the date by using formulae =trim(clean(data) and cleaned the data from unnecessry spaces, non printable characters.
 Then, to fill the missing values used formulae as If(is blank(data) formulae and given as NA
 For Inconsistence data like no proper format in data set used Proper function with formulae as =proper() nad arranged the data
 Since this is the Product id no duplicates found for entire row
